@@ -1,4 +1,7 @@
 # Monte_Carlo_atmospheric_plume
+
+![Preview](https://numericalenvironmental.files.wordpress.com/2016/10/air-dipsersion-equation.jpg?w=616)
+
 Functionally equivalent R and Python 2.7 scripts to model air plume dispersion (R script has some post-processing features tacked on).
 wind.txt file contains wind velocity distribution data required by the scripts.
 
