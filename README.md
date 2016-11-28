@@ -5,6 +5,8 @@
 Functionally equivalent R and Python 2.7 scripts to model air plume dispersion (R script has some post-processing features tacked on).
 wind.txt file contains wind velocity distribution data required by the scripts.
 
+Python version requires numpy, pandas, and time libraries.
+
 More info can be found here: https://numericalenvironmental.wordpress.com/2016/10/16/monte-carlo-air-dispersion-modeling-r-versus-python/
 
 I'd appreciate hearing back from you if you find the script(s) useful. Questions or comments are welcome at walt.mcnab@gmail.com. 
